@@ -1,0 +1,640 @@
+# Translation of Themes - Transportex in Russian
+# This file is distributed under the same license as the Themes - Transportex package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-29 09:49:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Transportex\n"
+
+#. Description of the theme
+msgid "Transportex is a transport, logistics & home movers WordPress theme with focus on create online transport logistics, truck, trucking, shipment, fleet, flat mover, moving company, shipping, warehouse, delivery, freight services, corporate, showcase,Air Freight, Sea Freight, Road Freight, Logistics Works, tracking, carrier, transport logistics, delivery, Routes, Warehousing, overland network, responsive creative portfolio, package, storage, multipurpose business, Transportex offers grid pattern, three different tile / grid blog layouts, page transitions and distinctive typography. It also includes easy to use and fast page builder siteorigin. Cargo adapts to every device, from smartphones and tablets to desktops. It comes with free updates and free support by our highly acclaimed team. demo at https://themeansar.com/themes/transportex-pro/"
+msgstr "Transportex - это тема для WordPress которая подходит для транспорта, логистики и домашним перевозчикам, в которой основное внимание уделяется созданию онлайн транспортной логистики, грузовых автомобилей, грузоперевозок, отгрузок, автопарка, грузоперевозок, транспортной компании, доставки, склада, доставки, грузовых перевозок, корпоративных, витринных, авиаперевозок, морских перевозок. Грузовые перевозки, автомобильные перевозки, логистические работы, отслеживание, перевозчик, транспортная логистика, доставка, маршруты, складирование, сухопутная сеть, адаптивный творческий портфель, упаковка, хранение, многоцелевой бизнес, Transportex предлагает шаблон сетки, три различных макета блога (плитка / сетка), переходы страниц и отличительная типография. Он также включает в себя простой в использовании и быстрый сборщик страниц siteorigin. Тема адаптируется к любому устройству, от смартфонов и планшетов до настольных компьютеров. Она поставляется с бесплатными обновлениями и бесплатной поддержкой нашей известной команды. Ознакомится с демо-версией: https://themeansar.com/themes/transportex-pro/"
+
+#. Theme Name of the theme
+msgid "Transportex"
+msgstr "Transportex"
+
+#: inc/icy/customize/ta_customize_homepage.php:588
+msgid "Hide post meta from News section"
+msgstr "Спрятать мета информацию записей в секции новостей"
+
+#: search.php:43
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: search.php:41
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: functions.php:190
+msgid "Service Widget Area"
+msgstr "Область виджетов услуг"
+
+#: functions.php:182
+msgid "Slider Widget Area"
+msgstr "Область виджетов слайдера"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:191
+msgid "Need more features?"
+msgstr "Нужно больше возможностей?"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:186
+msgid "Upgrade to PRO version"
+msgstr "Обновитесь до PRO версии"
+
+#: inc/icy/customize/ta_customize_homepage.php:524
+msgid "Latest News settings"
+msgstr "Настройки последних новостей"
+
+#: 404.php:30
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "К сожалению, запрашиваемая страница не существует."
+
+#: inc/icy/customize/ta_customize_homepage.php:105
+#: inc/icy/customize/ta_customize_homepage.php:239
+#: inc/icy/customize/ta_customize_homepage.php:361
+#: inc/icy/customize/ta_customize_homepage.php:552
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/icy/customize/ta_customize_homepage.php:28
+#: inc/icy/customize/ta_customize_homepage.php:92
+#: inc/icy/customize/ta_customize_homepage.php:226
+#: inc/icy/customize/ta_customize_homepage.php:347
+#: inc/icy/customize/ta_customize_homepage.php:539
+msgid "Hide / Show Section"
+msgstr "Показать / скрыть раздел"
+
+#: inc/icy/customize/transportex_customize_copyright.php:87
+msgid "Google-plus"
+msgstr "Google-plus"
+
+#: inc/icy/customize/transportex_customize_copyright.php:65
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/icy/customize/transportex_customize_copyright.php:44
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/icy/customize/transportex_customize_copyright.php:23
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/icy/customize/transportex_customize_copyright.php:12
+msgid "Social Media"
+msgstr "Социальные сети"
+
+#: inc/icy/customize/transportex_customize_copyright.php:7
+msgid "Footer Section"
+msgstr "Подвал"
+
+#: inc/icy/widget/transportex-calltoaction.php:137
+#: inc/icy/widget/transportex-calltoaction.php:165
+#: inc/icy/widget/transportex-callout.php:137
+#: inc/icy/widget/transportex-callout.php:165
+#: inc/icy/widget/transportex-slider.php:156
+#: inc/icy/widget/transportex-service.php:159
+#: inc/icy/customize/transportex_customize_header.php:218
+#: inc/icy/customize/ta_customize_homepage.php:198
+#: inc/icy/customize/ta_customize_homepage.php:469
+#: inc/icy/customize/ta_customize_homepage.php:511
+#: inc/icy/customize/transportex_customize_copyright.php:34
+#: inc/icy/customize/transportex_customize_copyright.php:55
+#: inc/icy/customize/transportex_customize_copyright.php:77
+#: inc/icy/customize/transportex_customize_copyright.php:99
+msgid "Open link in a new tab"
+msgstr "Открыть ссылку в новой вкладке"
+
+#: inc/icy/widget/transportex-calltoaction.php:116
+#: inc/icy/widget/transportex-calltoaction.php:144
+#: inc/icy/widget/transportex-callout.php:116
+#: inc/icy/widget/transportex-callout.php:144
+#: inc/icy/widget/transportex-slider.php:140
+#: inc/icy/widget/transportex-service.php:138
+#: inc/icy/customize/transportex_customize_header.php:192
+#: inc/icy/customize/ta_customize_homepage.php:170
+#: inc/icy/customize/ta_customize_homepage.php:441
+#: inc/icy/customize/ta_customize_homepage.php:483
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/icy/widget/transportex-calltoaction.php:102
+#: inc/icy/widget/transportex-callout.php:102
+#: inc/icy/widget/transportex-slider.php:116
+#: inc/icy/widget/transportex-service.php:110
+#: inc/icy/customize/transportex_customize_header.php:77
+#: inc/icy/customize/transportex_customize_header.php:124
+#: inc/icy/customize/transportex_customize_header.php:171
+#: inc/icy/customize/ta_customize_homepage.php:156
+#: inc/icy/customize/ta_customize_homepage.php:297
+#: inc/icy/customize/ta_customize_homepage.php:427
+#: inc/icy/customize/ta_customize_homepage.php:616
+msgid "Description"
+msgstr "Описание"
+
+#: inc/icy/widget/transportex-calltoaction.php:91
+#: inc/icy/widget/transportex-callout.php:91
+#: inc/icy/widget/transportex-slider.php:109
+#: inc/icy/widget/transportex-service.php:103
+#: inc/icy/customize/transportex_customize_header.php:64
+#: inc/icy/customize/transportex_customize_header.php:111
+#: inc/icy/customize/transportex_customize_header.php:158
+#: inc/icy/customize/ta_customize_homepage.php:142
+#: inc/icy/customize/ta_customize_homepage.php:284
+#: inc/icy/customize/ta_customize_homepage.php:413
+#: inc/icy/customize/ta_customize_homepage.php:602
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/icy/customize/transportex_customize_header.php:51
+#: inc/icy/customize/transportex_customize_header.php:98
+#: inc/icy/customize/transportex_customize_header.php:145
+msgid "Icon"
+msgstr "Описание"
+
+#: functions.php:162
+msgid "Sidebar Widget Area"
+msgstr "Область виджетов боковой панели"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:172
+msgid "Widgets"
+msgstr "Виджеты"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:79
+msgid ""
+"Welcome! Thank you for choosing Transportex \n"
+"For the best use of Transportex theme, visit the Wecome page %swelcome page%s."
+msgstr ""
+"Добро пожаловать! Спасибо, что выбрали Transportex\n"
+"Для наилучшего опыта с темой Transportex посетите приветственную страницу %swelcome page%s."
+
+#: inc/icy/customize/ta_customize_homepage.php:309
+msgid "<b><h3>How to add service on the frontpage</b></h3>"
+msgstr "<b><h3>Как добавить сервис на главную страницу</b></h3>"
+
+#: inc/icy/customize/ta_customize_homepage.php:54
+msgid "<b><h3>How to add slider on the frontpage</b></h3>"
+msgstr "<b><h3>Как добавить слайдер на главную страницу</b></h3>"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:245
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:247
+#: inc/icy/themeinfo/themeinfo-detail.php:250
+msgid "Fully Compatible in Pro Version"
+msgstr "Полностью совместима с Pro версией"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:246
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:249
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:53
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не удалось. Пожалуйста, перезагрузите страницу и попробуйте снова."
+
+#: inc/icy/themeinfo/themeinfo-detail.php:34
+#: inc/icy/themeinfo/themeinfo-detail.php:101
+msgid "About"
+msgstr "О нас"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:57
+msgid "Cheatin&#8217; huh?"
+msgstr "Эй! Жульничаем?!"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:81
+msgid "Get started with Transportex"
+msgstr "Начать с Transportex"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:120
+msgid "View PRO version"
+msgstr "Посмотреть PRO версию"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:118
+msgid "View Demo"
+msgstr "Посмотреть демо-версию"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:116
+msgid "Theme Info"
+msgstr "Информация о теме"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:130
+msgid "Supported Plugins"
+msgstr "Поддерживаемые плагины"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:122
+msgid "Rating this theme"
+msgstr "Рейтинг этой темы"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:166
+msgid "Theme Customizer"
+msgstr "Настройщик тем"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:167
+msgid "Customize"
+msgstr "Настроить"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:176
+#: inc/icy/themeinfo/themeinfo-detail.php:177
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:181
+msgid "Got theme support question?"
+msgstr "Есть вопросы, касательно этой темы?"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:182
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:187
+#: inc/icy/themeinfo/themeinfo-detail.php:192
+msgid "View Pro"
+msgstr "Посмотреть Pro"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:196
+msgid "Got sales related question?"
+msgstr "Есть вопросы, касательно покупки?"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:203
+#: inc/icy/themeinfo/themeinfo-detail.php:210
+msgid "Translate"
+msgstr "Перевести"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:197
+msgid "Contact Page"
+msgstr "Страница контактов"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:224
+msgid "Return to Updates"
+msgstr "Вернуться к обновлениям"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:224
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Вернуться в консоль &rarr; Обновления"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:227
+msgid "Go to Dashboard"
+msgstr "Перейти в консоль"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:227
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Перейти в консоль &rarr; Главная"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:244
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/icy/themeinfo/themeinfo-detail.php:242
+msgid "This theme recommends following plugins:"
+msgstr "Эта тема рекомендует следующие плагины:"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Домашняя страница"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Страница на всю ширину"
+
+#: sections/home-services.php:26
+msgid "Our <span>Service</span> Says"
+msgstr "О нашем <span>сервисе</span> отзываются"
+
+#: sections/home-callout.php:35 inc/icy/customize/ta_customize_homepage.php:421
+msgid "We take care with merchandise and deliver your order where you are on time."
+msgstr "Мы заботимся о товарах и доставляем ваш заказ туда, где вы находитесь в данный момент."
+
+#: sections/home-blog.php:33
+msgid "Latest <span>News</span>"
+msgstr "Последние <span>новости</span>"
+
+#: inc/icy/widget/transportex-slider.php:128
+#: inc/icy/widget/transportex-slider.php:135
+#: inc/icy/widget/transportex-service.php:122
+#: inc/icy/widget/transportex-service.php:129
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/icy/widget/transportex-slider.php:122
+#: inc/icy/widget/transportex-service.php:116
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/icy/widget/transportex-slider.php:17
+msgid "Tx - Slider Widget"
+msgstr "Tx - Виджет слайдера"
+
+#: inc/icy/widget/transportex-service.php:133
+msgid "Hide Featured Image"
+msgstr "Скрыть изображение записи"
+
+#: inc/icy/widget/transportex-service.php:98
+msgid "Enter  Font Awesome icon class ( like: fa-cloud ). <a href=\"https://fontawesome.com/v4.7.0/icons/\" target=\"blank\" >Here all icon </a>"
+msgstr "Введите  класс значка Font Awesome ( например: fa-cloud ). <a href=\"https://fontawesome.com/v4.7.0/icons/\" target=\"blank\" >Здесь все классы </a>"
+
+#: inc/icy/widget/transportex-service.php:14
+msgid "Tx - Service Widget"
+msgstr "Tx - Виджет услуг"
+
+#: inc/icy/widget/transportex-recent-news.php:73
+msgid "Number of pages to show:"
+msgstr "Количество отображаемых страниц:"
+
+#: inc/icy/widget/transportex-recent-news.php:69
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/icy/widget/transportex-recent-news.php:64
+#: inc/icy/customize/ta_customize_homepage.php:596
+msgid "Latest News"
+msgstr "Последние новости"
+
+#: inc/icy/widget/transportex-recent-news.php:15
+msgid "Recent Blog Post"
+msgstr "Последняя запись в блоге"
+
+#: inc/icy/widget/transportex-recent-news.php:14
+msgid "Tx - Recent News Widget"
+msgstr "Tx - Виджет для последних новостей"
+
+#: inc/icy/widget/transportex-calltoaction.php:15
+msgid "Tx - Call To Action Widget"
+msgstr "Tx - Виджет призыва к действию"
+
+#: inc/icy/widget/transportex-calltoaction.php:119
+#: inc/icy/widget/transportex-calltoaction.php:147
+#: inc/icy/widget/transportex-callout.php:119
+#: inc/icy/widget/transportex-callout.php:147
+#: inc/icy/widget/transportex-slider.php:143
+#: inc/icy/widget/transportex-service.php:141
+#: inc/icy/customize/transportex_customize_header.php:205
+#: inc/icy/customize/ta_customize_homepage.php:184
+#: inc/icy/customize/ta_customize_homepage.php:455
+#: inc/icy/customize/ta_customize_homepage.php:497
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: inc/icy/widget/transportex-callout.php:15
+msgid "Tx - Callout Widget"
+msgstr "Tx - Виджет вызова"
+
+#: inc/icy/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Получить Pro"
+
+#: inc/icy/customize-pro/class-customize.php:64
+msgid "Transportex Pro"
+msgstr "Transportex Pro"
+
+#: inc/icy/customize/transportex_customize_header.php:186
+msgid "Get Quote"
+msgstr "Получить цитату"
+
+#: inc/icy/customize/transportex_customize_header.php:32
+msgid "Info two"
+msgstr "Информация два"
+
+#: inc/icy/customize/transportex_customize_header.php:19
+msgid "Info one"
+msgstr "Информация один"
+
+#: inc/icy/customize/ta_customize_homepage.php:631
+msgid "Select Number of Post"
+msgstr "Выберите число записей"
+
+#: sections/home-callout.php:28 inc/icy/customize/ta_customize_homepage.php:407
+msgid "Reach Your Place Sure & Safe"
+msgstr "Довезём товар в целости и сохранности"
+
+#: inc/icy/customize/ta_customize_homepage.php:398
+msgid "Callout Text Align"
+msgstr "Выравнивание текста вызова"
+
+#: inc/icy/customize/ta_customize_homepage.php:334
+msgid "Callout Section"
+msgstr "Раздел вызова"
+
+#: inc/icy/customize/ta_customize_homepage.php:278
+msgid "Show off those skills, work & awesome <span>projects</span>"
+msgstr "Продемонстрируйте эти навыки, работу и потрясающие <span>проекты</span>"
+
+#: inc/icy/customize/ta_customize_homepage.php:212
+msgid "Service Section"
+msgstr "Секция услуг"
+
+#: inc/icy/customize/ta_customize_homepage.php:164
+msgid "Lets Start"
+msgstr "Давайте начнём"
+
+#: sections/home-calltoaction.php:28
+#: inc/icy/customize/ta_customize_homepage.php:136
+msgid "Make A Difference With <span>Expert Team</span>"
+msgstr "Разделите мнение с <span>экспертами</span>"
+
+#: inc/icy/customize/ta_customize_homepage.php:128
+#: inc/icy/customize/ta_customize_homepage.php:270
+#: inc/icy/customize/ta_customize_homepage.php:383
+#: inc/icy/customize/ta_customize_homepage.php:574
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/icy/customize/ta_customize_homepage.php:42
+#: inc/icy/customize/ta_customize_homepage.php:116
+#: inc/icy/customize/ta_customize_homepage.php:255
+#: inc/icy/customize/ta_customize_homepage.php:372
+#: inc/icy/customize/ta_customize_homepage.php:563
+msgid "Overlay Color"
+msgstr "Цвет наложения"
+
+#: inc/icy/customize/ta_customize_homepage.php:79
+msgid "Call To Action Section"
+msgstr "Раздел призыва к действию"
+
+#: inc/icy/customize/ta_customize_homepage.php:16
+msgid "Slider Section"
+msgstr "Раздел слайдера"
+
+#: inc/icy/customize/ta_customize_homepage.php:6
+msgid "Frontpage Settings"
+msgstr "Настройки главной страницы"
+
+#: header.php:189
+msgid "Get a Quote"
+msgstr "Получить цитату"
+
+#: header.php:175
+msgid "Opening Time:"
+msgstr "Режим работы:"
+
+#: header.php:155 inc/icy/customize/transportex_customize_header.php:105
+msgid "Email Us:"
+msgstr "Email:"
+
+#: header.php:135 inc/icy/customize/transportex_customize_header.php:58
+msgid "Call Us:"
+msgstr "Телефон:"
+
+#: single.php:50
+msgid "By"
+msgstr "от"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:3
+msgid "Type to search"
+msgstr "Введите строку поиска"
+
+#: search.php:37
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/icy/transportex-custom-navwalker.php:193
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: inc/icy/customize/transportex_customize_header.php:179
+msgid "Header Widget Four Setting"
+msgstr "Настройки виджета заголовка 4"
+
+#: inc/icy/customize/transportex_customize_header.php:132
+msgid "Header Widget Three Setting"
+msgstr "Настройки виджета заголовка 3"
+
+#: inc/icy/customize/transportex_customize_header.php:85
+msgid "Header Widget Two Setting"
+msgstr "Настройки виджета заголовка 2"
+
+#: inc/icy/customize/transportex_customize_header.php:38
+msgid "Header Widget One Setting"
+msgstr "Настройки виджета заголовка 1"
+
+#: inc/icy/customize/transportex_customize_header.php:7
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: inc/icy/breadcrumb.php:99
+msgid "Page"
+msgstr "Страница"
+
+#: inc/icy/breadcrumb.php:94
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: inc/icy/breadcrumb.php:91
+msgid "Articles posted by"
+msgstr "Статьи, опубликованные"
+
+#: inc/icy/breadcrumb.php:86
+msgid "Posts tagged"
+msgstr "Записи с меткой"
+
+#: inc/icy/breadcrumb.php:28
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: inc/icy/breadcrumb.php:25
+msgid "Archive by category"
+msgstr "Архив по рубрикам"
+
+#: header.php:85
+msgid "Footer Social Links Menu"
+msgstr "Меню социальных ссылок в подвале"
+
+#: header.php:52 header.php:207
+msgid "Toggle Navigation"
+msgstr "Показать / скрыть навигацию"
+
+#: header.php:26 header.php:29
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: sections/home-callout.php:8 sections/home-callout.php:11 functions.php:213
+#: inc/icy/customize/ta_customize_homepage.php:435
+#: inc/icy/customize/ta_customize_homepage.php:477
+msgid "Read More"
+msgstr "Читать далее"
+
+#: functions.php:172
+msgid "Footer Widget Area"
+msgstr "Область виджетов в подвале"
+
+#: functions.php:82
+msgid "Primary menu"
+msgstr "Основное меню"
+
+#: footer.php:28
+msgid "Theme by %1$s"
+msgstr "Автор темы: %1$s"
+
+#: content.php:48
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: sections/home-blog.php:86 content.php:32 single.php:35
+msgid "by"
+msgstr "от"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Закрытые комментарии."
+
+#: comments.php:43 comments.php:64
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:42 comments.php:63
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:39 comments.php:60
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Comments &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария"
+msgstr[2] "%1$s комментариев"
+
+#: 404.php:31
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#: 404.php:29
+msgid "Oops! Page not found"
+msgstr "Упс, страница не найдена"
+
+#: 404.php:28
+msgid "4"
+msgstr "4"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. Author of the theme
+msgid "Themeansar"
+msgstr "Themeansar"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/free-themes/transportex/"
+msgstr "https://themeansar.com/free-themes/transportex/"
